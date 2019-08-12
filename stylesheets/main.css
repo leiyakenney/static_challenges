@@ -9,7 +9,8 @@
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 16px;
+  font-size: 14px;
+  font-family: Arial, Times, serif;font-weight:bold;
 }
 
 .topnav h2:hover {
@@ -28,7 +29,8 @@
   color: #FFFFFF;
   text-align: center;
   padding: 14px 16px;
-  font-size: 16px;
+  font-size: 14px;
+  font-family: Arial, Times, serif;font-weight:bold;
 }
 
 .topnav a:hover {
@@ -42,7 +44,7 @@
 }
 
 .bottomnav {
-  background-color: #484848;
+  background-color: #363434;
   overflow: hidden;
 }
 
@@ -53,6 +55,7 @@
   padding: 14px 16px;
   text-decoration: underline;
   font-size: 16px;
+  font-family: Arial, Times, serif;font-weight:bold;
 }
 
 .bottomnav a:hover {
@@ -89,7 +92,7 @@
      padding-left: 55px;
 }
 
-.sidepics {
+.smallpics {
   float: right;
   position: absolute;
   top: 90px;
@@ -97,28 +100,28 @@
   left: 1100px;
 }
 
-.sidepics img {
+.smallpics img {
   width:300px;
   height:190px
 }
 
-.sidepics h2 {
+.smallpics h2 {
   float: left;
   padding: 14px 0px;
   padding-top: 50px;
   text-decoration: none;
-  font-size: 24px;
+  font-size: 18px;
   font-family: Arial, Times, serif;font-weight:bold;
 }
 
 .footer {
-  background-color: #484848;
+  background-color: #363434;
   overflow: hidden;
 }
 
 .footer p {
   padding: 14px 16px;
   font-family: Arial, Times, serif;
-  font-size: 14px;
+  font-size: 16px;
   color: #FFFFFF;
 }
